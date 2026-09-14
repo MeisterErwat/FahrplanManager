@@ -1,5 +1,5 @@
 {
-  "version": "6.1.4",
-  "download_url": "https://github.com/MeisterErwat/FahrplanManager/releases/download/v6.1.4/FahrplanManager.exe",
-  "notes": "Fahrplan Manager ULTIMATE 6.1.4\n\n• Robuster Update-Ablauf\n• Updater wartet gezielt auf das Beenden der Haupt-EXE\n• Neue Version startet nach dem Update automatisch\n• Verständlichere Fehlermeldungen bei falscher GitHub-URL"
+  "version": "6.1.5",
+  "download_url": "https://github.com/MeisterErwat/FahrplanManager/releases/download/v6.1.5/FahrplanManager.exe",
+  "notes": "ULTIMATE 6.1.5\n\n• Neue Fahrgastanzeige während der aktiven Fahrt\n• Anzeige von Linie, Ziel, aktuellem Halt, nächstem Halt und Fahrstatus\n• Fahrgastanzeige synchronisiert sich mit Uhrzeit, Pause und Verspätung/Verfrühung"
 }
