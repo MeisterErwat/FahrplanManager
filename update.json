@@ -1,5 +1,4 @@
 {
-  "version": "6.0",
-  "download_url": "https://github.com/Moritz/FahrplanManager/releases/download/v6.0/FahrplanManager.exe",
-  "notes": "Erste Version des automatischen Updatesystems."
+  "enabled": true,
+  "manifest_url": "https://raw.githubusercontent.com/DEINNAME/FahrplanManager/main/update.json"
 }
