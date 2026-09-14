@@ -1,5 +1,5 @@
 {
-  "version": "6.1.2",
-  "download_url": "https://github.com/MeisterErwat/FahrplanManager/releases/download/v6.1.2/FahrplanManager.exe",
-  "notes": "Fahrplan Manager ULTIMATE 6.1.2\n\n• Ein Update wird pro Version nur einmal als verfügbar gemeldet\n• Nach erfolgreichem Update startet der Fahrplan Manager automatisch neu\n• Stabilere Update-Ersetzung"
+  "version": "6.1.3",
+  "download_url": "https://github.com/MeisterErwat/FahrplanManager/releases/download/v6.1.3/FahrplanManager.exe",
+  "notes": "Fahrplan Manager ULTIMATE 6.1.3\n\n• Updateprüfung repariert\n• Eine bereits erkannte Version wird nur einmal angeboten\n• Nach erfolgreichem Update startet das Programm automatisch wieder\n• Stabilerer Download und Austausch der EXE"
 }
