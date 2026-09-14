@@ -1,5 +1,5 @@
 {
   "version": "6.0",
-  "download_url": "https://DEINE-DOMAIN.example/FahrplanManager.exe",
-  "notes": "Beispiel-Manifest. Ersetze die Download-URL durch die veröffentlichte EXE."
+  "download_url": "https://github.com/Moritz/FahrplanManager/releases/download/v6.0/FahrplanManager.exe",
+  "notes": "Erste Version des automatischen Updatesystems."
 }
